@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwsP1", "AwsP1\AwsP1.csproj", "{4FE3F5F0-4F8E-464C-A11C-BBFCC9B45483}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{863AF3EE-37CF-4A3D-B63A-8860B96E980C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FE3F5F0-4F8E-464C-A11C-BBFCC9B45483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE3F5F0-4F8E-464C-A11C-BBFCC9B45483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE3F5F0-4F8E-464C-A11C-BBFCC9B45483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE3F5F0-4F8E-464C-A11C-BBFCC9B45483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863AF3EE-37CF-4A3D-B63A-8860B96E980C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863AF3EE-37CF-4A3D-B63A-8860B96E980C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863AF3EE-37CF-4A3D-B63A-8860B96E980C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863AF3EE-37CF-4A3D-B63A-8860B96E980C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5B50E35-C070-4AB0-A39E-1B882D7CB806}
+	EndGlobalSection
+EndGlobal

@@ -5,7 +5,13 @@
 	<PackageId>AwsP1</PackageId>
 	<Version>1.0.0</Version>
 	<IsPackable>true</IsPackable>
+	<UserSecretsId>acba24ab-7541-48a9-a6bf-3c2c5423b309</UserSecretsId>
+	<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.11.1" />
+  </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\TestProject1\TestProject1.csproj" />
